@@ -1,0 +1,8 @@
+Dataset Name:
+A Large Scale Fish Dataset
+
+Dataset Source:
+https://www.kaggle.com/datasets/crowww/a-large-scale-fish-dataset
+
+Description:
+This project uses the publicly available A Large Scale Fish Dataset from Kaggle for fish species image classification using Convolutional Neural Networks.
