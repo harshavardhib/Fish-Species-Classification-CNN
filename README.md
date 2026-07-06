@@ -60,6 +60,14 @@ Classes:
 - Test Accuracy: 96.89%
 
 ---
+## Pre-trained Models
+
+The trained model files are not included in this repository because they exceed GitHub's file size limit (100 MB).
+
+They can be downloaded from Google Drive:
+
+- **Custom CNN Model (.keras):** [https://drive.google.com/your-link](https://drive.google.com/file/d/1Ect-qPm-sGLqzhUL5NcmvGIHT0b7-In0/view?usp=drive_link)
+- **MobileNetV2 Model (.keras):** [https://drive.google.com/your-link](https://drive.google.com/file/d/1f8Z4_bV_nBPszQImfwbzwMq7B7th7elw/view?usp=drive_link)
 
 ## Results
 
