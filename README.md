@@ -45,6 +45,27 @@ Classes:
 
 ---
 
+## How to Run
+
+1. Clone the repository.
+
+git clone https://github.com/harshavardhib/Fish-Species-Classification-CNN.git
+
+2. Install the required packages.
+
+pip install -r requirements.txt
+
+3. Download the dataset from Kaggle:
+https://www.kaggle.com/datasets/crowww/a-large-scale-fish-dataset
+
+4. Open the notebook:
+
+fish-species-classification-cnn.ipynb
+
+5. Run all notebook cells sequentially.
+
+---
+
 ## Models
 
 ### Custom CNN
