@@ -157,9 +157,7 @@ Run the notebook from top to bottom to:
 
 # Kaggle Notebook
 
-Kaggle Notebook:
-
-** [LINK](https://www.kaggle.com/code/harshavardhii/fish-species-classification-cnn)
+Kaggle Notebook: [LINK](https://www.kaggle.com/code/harshavardhii/fish-species-classification-cnn)
 
 ---
 
