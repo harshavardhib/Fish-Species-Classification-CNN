@@ -157,7 +157,7 @@ Run the notebook from top to bottom to:
 
 # Kaggle Notebook
 
-Kaggle Notebook: [LINK](https://www.kaggle.com/code/harshavardhii/fish-species-classification-cnn)
+Kaggle Notebook: [https://www.kaggle.com/code/harshavardhii/fish-species-classification-cnn]
 
 ---
 
@@ -167,8 +167,8 @@ The trained model files are not included in this repository because they exceed 
 
 They can be downloaded from Google Drive:
 
-- **Custom CNN Model (.keras):** [DRIVE LINK](https://drive.google.com/file/d/1Ect-qPm-sGLqzhUL5NcmvGIHT0b7-In0/view?usp=drive_link)
-- **MobileNetV2 Model (.keras):** [DRIVE LINK](https://drive.google.com/file/d/1f8Z4_bV_nBPszQImfwbzwMq7B7th7elw/view?usp=drive_link)
+- **Custom CNN Model (.keras):** [https://drive.google.com/file/d/1Ect-qPm-sGLqzhUL5NcmvGIHT0b7-In0/view?usp=drive_link]
+- **MobileNetV2 Model (.keras):** [https://drive.google.com/file/d/1f8Z4_bV_nBPszQImfwbzwMq7B7th7elw/view?usp=drive_link]
 
 ---
 
